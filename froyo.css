@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 50px;
+    background-color: ghostwhite;
+}
+
+h1 {
+    color: darkorange;
+}
+
+h2 {
+    color: darkslateblue;
+}
+
+p {
+    color: dimgray;
+}
+
+#results {
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f4f4f4;
+    color: steelblue;
+}
+
+td {
+    background-color: azure;
+    color: darkslategray;
+}
+
+li {
+    color: peru;
+}
